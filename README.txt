@@ -2,7 +2,7 @@
 If modifications are needed, they should be made directly in the library.
 
 Before using the code, you need to download the ckpts of consisid and all its running environments 
-(see requirements.txt and ckpts/README.md and README_ConsisID.md).Before using the code, you need to set up a Baidu large model account and its API key, 
+(see requirements.txt and ckpts/README.md and README_ConsisID.md, or https://github.com/PKU-YuanGroup/ConsisID).Before using the code, you need to set up a Baidu large model account and its API key, 
 and fill the key into line 11 of qianfan.py.Examples of code generation can be found in finalresult.
 
 The code runs through the terminal. Example of running: 
