@@ -1,0 +1,65 @@
+[
+    {
+        "prompt_en": "0001",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0001.mp4"
+        ]
+    },
+    {
+        "prompt_en": "0002",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0002.mp4"
+        ]
+    },
+    {
+        "prompt_en": "0003",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0003.mp4"
+        ]
+    },
+    {
+        "prompt_en": "0004",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0004.mp4"
+        ]
+    },
+    {
+        "prompt_en": "0005",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0005.mp4"
+        ]
+    },
+    {
+        "prompt_en": "0006",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0006.mp4"
+        ]
+    },
+    {
+        "prompt_en": "0007",
+        "dimension": [
+            "background_consistency"
+        ],
+        "video_list": [
+            "./finalresult/newVideo/0007.mp4"
+        ]
+    }
+]

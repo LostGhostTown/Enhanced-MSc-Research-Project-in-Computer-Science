@@ -1,0 +1,65 @@
+[
+    {
+        "prompt_en": "group1_video1",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video1.mp4"
+        ]
+    },
+    {
+        "prompt_en": "group1_video2",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video2.mp4"
+        ]
+    },
+    {
+        "prompt_en": "group1_video3",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video3.mp4"
+        ]
+    },
+    {
+        "prompt_en": "group1_video4",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video4.mp4"
+        ]
+    },
+    {
+        "prompt_en": "group1_video5",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video5.mp4"
+        ]
+    },
+    {
+        "prompt_en": "group1_video6",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video6.mp4"
+        ]
+    },
+    {
+        "prompt_en": "group1_video7",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos\\group1_video7.mp4"
+        ]
+    }
+]

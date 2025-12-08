@@ -1,0 +1,11 @@
+[
+    {
+        "prompt_en": "group1_video1",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "D:/consisid/ConsisID/videos/group1_video1.mp4"
+        ]
+    }
+]

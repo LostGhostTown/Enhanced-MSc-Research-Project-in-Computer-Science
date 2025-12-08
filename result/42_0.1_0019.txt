@@ -1,0 +1,4 @@
+prompt:
+The video shows a man cooking in a small kitchen, stirring a pot of noodles on the stove. He tastes the broth with a spoon, nodding in approval before adding a pinch of salt. A towel is slung over his shoulder, and a window above the sink lets in dim light—casting a shadow of his arm on the tiled wall. The sound of a boiling kettle whistles softly in the background.
+description:
+In a kitchen featuring tiled walls and a window, two males are engaged in cooking; the male on the left holds a pot and lifts a strand of noodles from it, while the other male stands closely beside him with a towel draped over his shoulder.

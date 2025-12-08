@@ -1,0 +1,35 @@
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0001.mp4
+Sampled frame number: 16
+Video average score: 23.59375
+======================================================================
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0002.mp4
+Sampled frame number: 16
+Video average score: 23.359375
+======================================================================
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0003.mp4
+Sampled frame number: 16
+Video average score: 19.3125
+======================================================================
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0004.mp4
+Sampled frame number: 16
+Video average score: 22.34375
+======================================================================
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0005.mp4
+Sampled frame number: 16
+Video average score: 23.703125
+======================================================================
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0006.mp4
+Sampled frame number: 16
+Video average score: 21.640625
+======================================================================
+======================================================================
+Video path:D:\consisid\ConsisID\finalresult\newVideo\0007.mp4
+Sampled frame number: 16
+Video average score: 24.34375
+======================================================================

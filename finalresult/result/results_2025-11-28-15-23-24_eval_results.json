@@ -1,0 +1,35 @@
+{
+    "subject_consistency": [
+        0.979991897319754,
+        [
+            {
+                "video_path": "./finalresult/newVideo/0001.mp4",
+                "video_results": 0.9972252156585455
+            },
+            {
+                "video_path": "./finalresult/newVideo/0002.mp4",
+                "video_results": 0.9711779840290546
+            },
+            {
+                "video_path": "./finalresult/newVideo/0003.mp4",
+                "video_results": 0.9936743651827177
+            },
+            {
+                "video_path": "./finalresult/newVideo/0004.mp4",
+                "video_results": 0.9807848781347275
+            },
+            {
+                "video_path": "./finalresult/newVideo/0005.mp4",
+                "video_results": 0.9616380389779806
+            },
+            {
+                "video_path": "./finalresult/newVideo/0006.mp4",
+                "video_results": 0.9691222707430521
+            },
+            {
+                "video_path": "./finalresult/newVideo/0007.mp4",
+                "video_results": 0.9863205285121998
+            }
+        ]
+    ]
+}

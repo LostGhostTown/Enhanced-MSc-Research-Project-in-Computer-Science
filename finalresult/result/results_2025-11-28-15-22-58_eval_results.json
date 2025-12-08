@@ -1,0 +1,49 @@
+{
+    "background_consistency": [
+        0.8987528483072916,
+        [
+            {
+                "video_path": "./finalresult/newVideo/0001.mp4",
+                "video_results": 0.9278666178385416,
+                "video_sim": 44.53759765625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "./finalresult/newVideo/0002.mp4",
+                "video_results": 0.900360107421875,
+                "video_sim": 43.21728515625,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "./finalresult/newVideo/0003.mp4",
+                "video_results": 0.9522196451822916,
+                "video_sim": 45.70654296875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "./finalresult/newVideo/0004.mp4",
+                "video_results": 0.9217071533203125,
+                "video_sim": 44.241943359375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "./finalresult/newVideo/0005.mp4",
+                "video_results": 0.8924509684244791,
+                "video_sim": 42.837646484375,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "./finalresult/newVideo/0006.mp4",
+                "video_results": 0.8305562337239584,
+                "video_sim": 39.86669921875,
+                "cnt_per_video": 48
+            },
+            {
+                "video_path": "./finalresult/newVideo/0007.mp4",
+                "video_results": 0.8661092122395834,
+                "video_sim": 41.5732421875,
+                "cnt_per_video": 48
+            }
+        ]
+    ]
+}

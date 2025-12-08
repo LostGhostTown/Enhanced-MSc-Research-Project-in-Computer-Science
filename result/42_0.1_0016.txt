@@ -1,0 +1,4 @@
+prompt:
+The video depicts a man cleaning gym equipment after a workout. He wipes down a treadmill with a disinfectant wipe, his biceps flexing slightly as he reaches the top of the machine. A water bottle sits on the floor beside him, its label peeled at the corner, and the gym’s speakers play upbeat pop music—faintly muffled by the sound of distant weights clinking.
+description:
+The video depicts a male individual in a gym environment, wearing a black sleeveless shirt and white gloves, engaged in cleaning a treadmill using a light blue cloth. He focuses on wiping down the control panel and other surfaces of the equipment. The background includes various gym machinery and weights, and a water bottle is placed on the floor beside him, highlighting a routine maintenance task within the fitness setting.
