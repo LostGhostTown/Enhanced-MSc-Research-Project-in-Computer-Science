@@ -1,0 +1,57 @@
+# 非核心，注释掉
+# xformers
+pillow
+# 非核心，注释掉（chainlit是UI相关，和视频评分无关）
+# chainlit>=1.0
+pydantic>=2.7.1
+# 非核心，注释掉（timm是图像模型库，无关）
+# timm>=0.9.16
+# 非核心，注释掉（openai是API调用，无关）
+# openai>=1.30.1
+loguru>=0.7.2
+einops
+# 非核心，注释掉（sse-starlette是web相关，无关）
+# sse-starlette>=2.1.0
+# 非核心，注释掉（bitsandbytes仅量化用，无关）
+# bitsandbytes>=0.43.1 # for int4 quantization
+decord>=0.6.0
+#根据https://download.pytorch.org/whl/torch/，python版本为[3.8,3.11]
+torch==2.1.0
+torchvision== 0.16.0
+pytorchvideo==0.1.5
+transformers==4.42.4
+#如果运行提示transformers错误，则可能是transformers代码问题，拉取最新的试下
+#git+https://github.com/huggingface/transformers.git
+huggingface-hub>=0.23.0
+# 非核心，注释掉（web框架，无关）
+# flask
+# gunicorn
+# gevent
+requests
+# 非核心，注释掉（gradio是UI，无关）
+# gradio
+# 非核心，注释掉（datasets是数据集处理，无关）
+# datasets
+scipy
+sentencepiece
+# 非核心，注释掉（gdown是下载文件，无关）
+# gdown
+tqdm
+ftfy
+regex
+# git+https://github.com/openai/CLIP.git
+# 非核心，注释掉（open-clip-torch是CLIP相关，无关）
+# open-clip-torch
+opencv-python
+opencv-python-headless
+pandas
+# 无法安装，注释掉
+# SwissArmyTransformer
+# 非核心，注释掉（wandb是日志，无关）
+# wandb
+# 非核心，注释掉（omegaconf是配置，无关）
+# omegaconf
+# 无法安装，注释掉
+# fairscale
+# 非核心，注释掉（tiktoken是分词，无关）
+# tiktoken

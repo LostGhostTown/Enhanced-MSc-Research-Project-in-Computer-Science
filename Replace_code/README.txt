@@ -1,0 +1,1 @@
+Replacing the code with the same name in the `diffusers` library can apply my VRAM (Video Random Access Memory) optimization. The path is `diffusers.pipelines.consisid`.

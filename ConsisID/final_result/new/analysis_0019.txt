@@ -1,0 +1,45 @@
+
+Alignment issue:
+1. The original prompt describes a time lapse of the northern lights over the mountains of Sanna in Træna archipelago, Nordland, Norway, while the video description text and video feature a female individual with long blonde hair sitting on a rocky outcrop, which is not mentioned in the original prompt.
+
+Consistency issue:
+1. The video description text mentions the individual appears to be gazing at the aurora, immersed in the natural beauty surrounding them, which is not part of the original prompt's description.
+2. The video focuses on the individual and the aurora, but the original prompt emphasizes the time lapse of the northern lights over the mountains, which is not the primary focus in the video.
+
+Stability issue:
+
+Physical issue:
+Time lapse of northern lights (aurora borealis) moving dynamically across the night sky above the iconic mountains of Sanna in Træna archipelago, Nordland, Norway. Ensure that the primary subject remains the time lapse of the northern lights over the mountains, with no addition or reduction of other subjects. Prohibit any human figures or unrelated elements from appearing. The scene must strictly focus on the aurora and the mountainous landscape, maintaining a close association between the celestial display and the geographical features. The northern lights should be depicted in their vibrant, shifting forms, illuminating the rugged peaks and coastal contours of Sanna. The temporal sequence must show the aurora's progression in a closed-loop, continuous motion, emphasizing the natural spectacle without deviation.
+Alignment issue:
+1. The original prompt describes a time lapse of the northern lights over the mountains of Sanna in Træna archipelago, Nordland, Norway, while the video description text and video feature a female individual with long blonde hair sitting on a rocky outcrop, which is not mentioned in the original prompt.
+
+Consistency issue:
+1. The video description text mentions the individual occasionally adjusting their position slightly, but the original prompt does not mention any human presence or movement.
+2. The video consistently features the female individual throughout, which is a deviation from the original prompt's focus solely on the northern lights and the landscape.
+Time lapse of northern lights (aurora borealis) over the iconic mountains of Sanna in Træna archipelago, Nordland, Norway. Ensure that the discovered landscape subject remains unchanged, with no addition or reduction. Prohibit any human presence or subjects from appearing in the scene.
+Alignment issue:
+1. The original prompt describes a time lapse of the northern lights over the mountains of Sanna in Træna archipelago, Nordland, Norway, while the video description text and video feature a female individual with long blonde hair sitting on a rocky outcrop, which is not mentioned in the original prompt.
+
+Consistency issue:
+1. The video description text mentions the individual appears to be in a contemplative pose, looking around and occasionally adjusting their position on the rock, but the original prompt does not mention any individual or their actions.
+Time lapse of northern lights (aurora borealis) over the iconic mountains of Sanna in Træna archipelago, Nordland, Norway. Ensure that no individual subject is present in the scene, with no addition or reduction of human elements. Prohibit any human figure from appearing in any form or taking any actions.
+Alignment issue:
+1. The original prompt describes a time lapse of the northern lights over the mountains of Sanna in Træna archipelago, Nordland, Norway, while the video description text and video feature a female individual with long blonde hair sitting on a rocky outcrop, which is not mentioned in the original prompt.
+
+Consistency issue:
+1. The video description text mentions the individual occasionally adjusting their position slightly, but the original prompt does not mention any human presence or movement.
+
+Stability issue:
+
+Physical issue:
+Time lapse of northern lights (aurora borealis) over the iconic mountains of Sanna in Træna archipelago, Nordland, Norway, with no human presence or individual depicted. Ensure that the discovered natural landscape subject remains unchanged, with no addition or reduction. Prohibit any human subject from appearing or taking any form.
+Alignment issue:
+1. The original prompt describes a time lapse of the northern lights over the mountains of Sanna in Træna archipelago, Nordland, Norway, while the video description text and video feature a female individual with long blonde hair sitting on a rocky outcrop, which is not mentioned in the original prompt.
+
+Consistency issue:
+1. The video description text mentions a female individual in a contemplative pose, which is an additional element not present in the original prompt.
+
+Stability issue:
+
+Physical issue:
+Time lapse of northern lights (aurora borealis) over the iconic mountains of Sanna in Træna archipelago, Nordland, Norway. Ensure that the discovered scene remains unchanged, with no addition or reduction. Prohibit any human subjects from appearing in the scene.

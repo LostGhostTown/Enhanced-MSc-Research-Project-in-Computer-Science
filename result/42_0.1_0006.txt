@@ -1,4 +1,0 @@
-prompt:
-A woman sits on a park bench at dawn, holding a dog-eared poetry book. Soft morning light filters through oak leaves onto her hands, and she lets out a quiet laugh as a sparrow hops onto the bench beside her. Her linen skirt sways slightly with the cool breeze, and a half-empty paper cup of hot coffee rests on the bench edge, still steaming.
-description:
-The video depicts a serene outdoor scene in a park where a female is seated on a wooden bench, engrossed in reading an open book. She is dressed in a light grey sleeveless dress, and a disposable coffee cup with a lid is placed beside her on the bench. The background features lush green trees with sunlight filtering through, creating a peaceful ambiance. The female occasionally gestures thoughtfully near her face before returning her attention to the book, suggesting moments of contemplation amidst her reading, embodying a tranquil moment of leisure in nature.

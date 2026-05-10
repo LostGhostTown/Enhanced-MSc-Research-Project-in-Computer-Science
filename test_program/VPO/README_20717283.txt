@@ -1,0 +1,1 @@
+Use vpo5b.py to perform VPO prompt optimization. You need to input a txt file containing prompts, with one prompt per line. Customize the txt file directory and the output directory.

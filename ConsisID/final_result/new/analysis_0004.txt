@@ -1,0 +1,30 @@
+
+Alignment issue:
+1. The original prompt describes an "aerial view" of Lake Tahoe, while the video shows a close-up of a woman with the lake in the background, not an aerial perspective.
+
+Consistency issue:
+1. The video description text mentions the woman "appears to be speaking, as her mouth moves slightly throughout the video," but the original prompt does not mention any person or action related to speaking.
+Lake Tahoe, wide-angle aerial view capturing the entirety of the lake and surrounding landscape, California. Ensure no human subjects are present; prohibit the appearance of any person, figure, or action unrelated to the aerial scenery. Maintain a consistent and stable perspective focused solely on the lake and its natural environment.
+Alignment issue:
+1. The original prompt describes an "aerial view" of Lake Tahoe, while the video shows a close-up of a woman with the lake in the background, not an aerial perspective.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair wearing a black outfit with structured shoulders, which is not referenced in the original prompt. The original prompt only describes the location (Lake Tahoe, aerial view, California) without any mention of a person.
+Lake Tahoe, aerial perspective (ensuring a top-down, bird's-eye view of the entire lake and surrounding landscape), California. Ensure no human subjects appear; the scene remains focused solely on the geographical features of Lake Tahoe and its environs.
+Alignment issue:
+1. The original prompt describes an "aerial view" of Lake Tahoe, California, while the video shows a close-up of a woman with the lake and mountains in the background, not an aerial perspective.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair wearing a black outfit with structured shoulders, which aligns with the video content. However, the original prompt does not mention the presence of a person, focusing solely on the landscape.
+Lake Tahoe, aerial perspective view focusing solely on the landscape, California, ensure that no human subject is present, with no addition or reduction of people, prohibit any human figure from appearing in any form or appearance.
+Alignment issue:
+1. The original prompt describes an "aerial view" of Lake Tahoe, California, while the video shows a close-up of a woman with the lake and mountains in the background, not an aerial perspective.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair wearing a black outfit with structured shoulders, which is not part of the original prompt's description of Lake Tahoe.
+Lake Tahoe, explicit aerial perspective view, showcasing the vast expanse of the lake and surrounding landscapes of California. Ensure that the discovered Lake Tahoe subject remains unchanged, with no addition or reduction. Prohibit the Lake Tahoe subject from being depicted with any unrelated human figures or objects not inherent to the aerial view of the lake and its natural surroundings.
+Alignment issue:
+1. The original prompt describes an "aerial view" of Lake Tahoe, while the video shows a ground-level view with a woman in the foreground.
+Consistency issue:
+1. The video description text mentions the woman "appears to be speaking, as her mouth moves slightly throughout the video," which is not mentioned in the original prompt. However, this is a supplementary detail and does not conflict with the core theme.
+Lake Tahoe, **strictly aerial view, no ground-level perspective,** California. **Ensure the discovered Lake Tahoe landscape remains unchanged, with no addition or reduction. Prohibit any human figures, including women, from appearing in the scene.**

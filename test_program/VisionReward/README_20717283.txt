@@ -1,0 +1,5 @@
+The local model directory needs to be replaced in inference - video.py.
+
+algm.py is used to calculate the average score.
+
+run_auto is used for batch scoring. You need to add the directory and its prompts by yourself.

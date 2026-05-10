@@ -1,4 +1,0 @@
-prompt:
-A woman stands in a sunlit flower shop, arranging a bouquet of peonies. Her fingers brush off a stray petal from her apron, and she leans in to smell a pink bloom—her eyes softening as the scent lingers. A small radio on the counter plays a folk song, and water droplets from the flower vases glisten on the wooden tabletop.
-description:
-In a bright, well-lit flower shop filled with natural light from large windows, a female florist holds and closely examines a large bouquet of vibrant pink peonies, bringing the flowers near her face as if to smell or inspect them. The background features additional floral arrangements, including a prominent display of red carnations on a wooden table to her right, alongside a vintage-style radio, creating a serene and aesthetically pleasing environment focused on floral artistry.

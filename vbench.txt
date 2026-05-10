@@ -1,3 +1,0 @@
-vbench evaluate --videos_path "./finalresult/oldVideo/" --dimension "temporal_flickering" --output_path "./finalresult/result/" --mode "custom_input"
-subject_consistency
-background_consistency

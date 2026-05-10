@@ -1,0 +1,51 @@
+
+Alignment issue:
+1. The original prompt mentions the person is "looking shocked," but the video description text does not mention this expression.
+
+Consistency issue:
+1. The video description text states that the person is "maintaining a consistent pose throughout the sequence," which aligns with the video content.
+
+Stability issue:
+1. No screen flickering, intense and abnormal camera jitter, or abnormal inter-frame picture quality observed in the video frames.
+
+Physical issue:
+1. No parts in the video content that do not conform to the physical laws of the real world.
+A person wearing a tinfoil hat, showing something, with a shocked expression. Ensure that the person with the tinfoil hat remains unchanged, with no addition or reduction. Prohibit the person from taking any form or appearance other than the one described. Use a steady, fixed camera position throughout the video, with no panning, tilting, or zooming. Ensure all actions and expressions adhere to real-world physical laws.
+Alignment issue:
+1. The original prompt mentions the person is "looking shocked," but the video description text does not mention this expression.
+
+Consistency issue:
+1. The video description text states the person is "maintaining a consistent pose throughout the sequence," which aligns with the video content.
+
+Stability issue:
+1. No screen flickering, intense and abnormal camera jitter, or abnormal inter-frame picture quality observed in the video.
+
+Physical issue:
+1. No parts in the video content that do not conform to the physical laws of the real world.
+A person wearing a tinfoil hat, showing something (specific object not detailed, retain original intent), with a clearly shocked facial expression, maintaining a consistent pose throughout the sequence. Ensure that the person with the tinfoil hat remains unchanged, with no addition or reduction. Prohibit the person from taking any form or appearance other than the one described. Use a steady, fixed camera position with no movement or jitter.
+Alignment issue:
+1. The original prompt mentions the person is "looking shocked," but the video description text does not mention this expression.
+
+Consistency issue:
+1. The video description text states the person is "maintaining a consistent pose throughout the sequence," which aligns with the video content.
+
+Stability issue:
+
+Physical issue:
+A person wearing a tinfoil hat, showing something, with a shocked expression, maintaining a consistent pose throughout the sequence. Ensure that the person with the tinfoil hat remains unchanged, with no addition or reduction. Prohibit the person with the tinfoil hat from taking any form or appearance other than the one showing something and having a shocked expression.
+Alignment issue:
+1. The original prompt mentions the person is "looking shocked," but the video description text does not mention this expression.
+
+Consistency issue:
+1. The video description text states the person is "holding a piece of crinkled, shiny silver material in her right hand," which is consistent with the video but not mentioned in the original prompt. However, this is a supplementary detail and does not conflict with the original prompt's core meaning.
+
+Stability issue:
+
+Physical issue:
+A person wearing a tinfoil hat, holding (or showing) an object (or specifying "a piece of crinkled, shiny silver material" as in the video description if it's a necessary detail for alignment, but since the instruction is to add at the end, here it's integrated as supplementary info), looking shocked. Ensure that the person remains the central subject, with no addition or reduction of core elements. Prohibit the person's expression from being anything other than shocked, and the tinfoil hat and the object being held/shown must remain consistent with the described scene.
+Alignment issue:
+1. The original prompt mentions the person is "looking shocked," but the video description text does not mention this expression.
+
+Consistency issue:
+1. The video description text states the person is "maintaining a consistent pose throughout the sequence," but does not mention the shocked expression which is a key element in the original prompt.
+A person wearing a tinfoil hat, showing something, with a shocked expression, maintaining a consistent pose and shocked expression throughout the sequence. Ensure that the person's shocked expression remains unchanged, with no addition or reduction. Prohibit the person's expression from taking any form or appearance other than a shocked state.

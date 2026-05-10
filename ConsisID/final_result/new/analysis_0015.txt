@@ -1,0 +1,33 @@
+
+Alignment issue:
+1. The original prompt specifies "Sunset with palms in Waikiki, Honolulu, Hawaii," but the video description text does not mention Waikiki or Honolulu, only referring to a "tropical or coastal area."
+
+Consistency issue:
+1. The video description text mentions "The female adjusts her top and sleeves, moving her arms and hands in various positions," but the original prompt does not specify any actions performed by the female.
+Sunset with palms in Waikiki, Honolulu, Hawaii, ensuring the scene remains set specifically in Waikiki, Honolulu, Hawaii, with no shift to a generic tropical or coastal area. Ensure that if a female subject is present, she remains a background element without performing any specific actions such as adjusting her top and sleeves or moving her arms and hands in various positions. The focus should strictly remain on the sunset and palm trees in Waikiki, Honolulu, Hawaii.
+Alignment issue:
+1. The original prompt specifies "Sunset with palms in Waikiki, Honolulu, Hawaii," but the video description text does not mention Waikiki or Honolulu, only referring to a "tropical or coastal area."
+
+Consistency issue:
+1. The video description text mentions "The female adjusts her top and sleeves, moving her arms and hands in various positions," but the original prompt does not specify any actions performed by the female.
+Sunset with palms in Waikiki, Honolulu, Hawaii, ensuring the scene remains set specifically in Waikiki, Honolulu, Hawaii, with no shift to a generic tropical or coastal area. Ensure that if a female subject is present, she remains a background element without performing any specific actions such as adjusting her top and sleeves or moving her arms and hands in various positions.
+Alignment issue:
+1. The original prompt specifies "Sunset with palms in Waikiki, Honolulu, Hawaii," but the video description text does not mention Waikiki or Honolulu, only referring to a "tropical or coastal area."
+
+Consistency issue:
+1. The video description text mentions "The female adjusts her top and sleeves, moving her arms and hands in various positions," but the original prompt does not specify any actions performed by the female.
+Sunset with palms in Waikiki, Honolulu, Hawaii, ensuring the scene remains set specifically in Waikiki, Honolulu, Hawaii, with no shift to a generic tropical or coastal area. Ensure that if a female subject is present, she remains a background element without performing any specific actions such as adjusting her top and sleeves or moving her arms and hands in various positions.
+Alignment issue:
+1. The original prompt mentions "Sunset with palms in Waikiki, Honolulu, Hawaii," but the video description text does not specify the location as Waikiki, Honolulu, Hawaii.
+Consistency issue:
+1. The video description text mentions "The woman adjusts her top and moves her arms slightly," which is consistent with the video content.
+Stability issue:
+
+Physical issue:
+Sunset scene at Waikiki, Honolulu, Hawaii, featuring palm trees, ensure the location remains Waikiki, Honolulu, Hawaii, with no addition or reduction, prohibit the location from being any other place, and if a woman is present (as per any original unstated but consistent video content reference), ensure that the discovered woman subject remains unchanged, with no addition or reduction, prohibit the woman subject from taking any form or appearance other than adjusting her top and moving her arms slightly.
+Alignment issue:
+1. The original prompt specifies "Sunset with palms in Waikiki, Honolulu, Hawaii," but the video description text does not mention Waikiki or Honolulu, only referring to a "tropical or coastal area."
+
+Consistency issue:
+1. The video description text mentions "The female adjusts her top and sleeves, moving her arms and hands in various positions," but the original prompt does not specify any actions performed by the female.
+Sunset with palms in Waikiki, Honolulu, Hawaii, ensuring the scene remains set specifically in Waikiki, Honolulu, Hawaii, with no shift to a generic tropical or coastal area. Ensure that the discovered female subject (if present) remains a secondary element, with no addition or reduction in her actions beyond what is strictly necessary to align with the original scene—prohibit the female subject from taking any form or appearance other than a passive, non-central role in the scene, with no specified actions such as adjusting her top, sleeves, or moving her arms and hands in various positions unless essential for scene context. The primary focus remains on the sunset and palm trees in Waikiki, Honolulu, Hawaii, with detailed visualization of the sunset's colors blending over the horizon, palm trees silhouetted against the fading light, and the specific coastal atmosphere of Waikiki.

@@ -1,4 +1,0 @@
-prompt:
-A woman stands at a bus stop on a rainy afternoon, folding her umbrella. Raindrops slide off the black fabric onto her rain boots, and she laughs softly when a puddle splashes slightly as a car drives past. She pulls a warm scarf tighter around her neck, and her phone—held in her gloved hand—displays the bus schedule, lit up against the gray sky.
-description:
-The video depicts a female standing on a rain-soaked urban street, holding a black umbrella and dressed in a black coat, a large knitted scarf, and black gloves. The scene features a wet road with a passing black car and distant urban elements like buildings and trees, creating an overcast, rainy atmosphere. She is seen looking around her surroundings and then focusing on a smartphone held in her gloved hands.

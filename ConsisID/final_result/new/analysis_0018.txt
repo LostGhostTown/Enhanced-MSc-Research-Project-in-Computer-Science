@@ -1,0 +1,37 @@
+
+Alignment issue:
+1. The original prompt describes "4K drone footage of flight over small lagoon in inland of Catalonia," while the video description text and the video feature a woman standing outdoors near a body of water, which is inconsistent with the drone footage description.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair holding a thin object, possibly a string or a thread, in her right hand. The video consistently shows this action throughout.
+2. The video description text and the video both depict a serene natural setting with calm water and lush green hills, which is consistent.
+
+Stability issue:
+
+Physical issue:
+4K drone footage capturing a flight solely over a small lagoon in the inland of Catalonia, with no woman present. Ensure that the subject of the drone flight over the lagoon remains unchanged, with no addition or reduction. Prohibit any human subjects from appearing in the footage. The footage should depict a serene natural setting with calm water of the lagoon and lush green hills surrounding it. The drone flight should have a clear temporal sequence, starting from an appropriate altitude and moving steadily over the lagoon, maintaining a close association between the drone's movement and the lagoon scenery. The specific position of the drone relative to the lagoon should be clearly described in a visualized manner, such as "drone flying at a moderate altitude, capturing the entire lagoon and the surrounding hills from a top - down perspective".
+Alignment issue:
+1. The original prompt describes "4K drone footage of flight over small lagoon in inland of Catalonia," while the video description text and the video feature a woman standing outdoors near a body of water, which is a different scene altogether.
+
+Consistency issue:
+1. The video description text mentions a woman holding a thin object, possibly a string or thread, which is not referenced in the original prompt.
+2. The video description text and the video focus on a woman near a body of water with hills in the background, whereas the original prompt describes a drone flight over a lagoon in Catalonia.
+4K drone footage of a flight solely and exclusively over a small lagoon in the inland of Catalonia. Ensure that the discovered woman subject (if any unintended appearance occurs) remains unchanged (should not appear), with no addition or reduction. Prohibit the woman subject from taking any form or appearance other than non - existence. The drone flight should be clearly depicted, starting from a certain height above the lagoon, moving steadily over the water surface of the small lagoon, showing the entire lagoon area and its surrounding inland Catalonia landscape in a continuous and closed - loop temporal sequence. The lagoon should be the central subject, with a detailed and visualized description of its position in the inland of Catalonia and its state as a body of water.
+Alignment issue:
+1. The original prompt describes "4K drone footage of flight over small lagoon in inland of Catalonia," but the video features a woman standing outdoors near a body of water, which does not align with the drone footage description.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair near a body of water with lush green hills, holding a thin object. This is consistent with the video content but not with the original prompt about drone footage over a lagoon.
+4K drone footage capturing a continuous, uninterrupted flight over a small lagoon located in the inland region of Catalonia. Ensure that the primary subject remains a lagoon landscape, with no inclusion of human figures, particularly a woman standing outdoors near a body of water. Prohibit any human subjects from appearing in any form or at any position within the footage. The footage should strictly depict the aerial view of the lagoon and its surrounding natural environment, maintaining a close association between the drone's flight path and the lagoon's geographical features. The flight should commence from a high altitude, gradually descending to provide a detailed and visualized perspective of the lagoon's surface, shoreline, and adjacent terrain, ensuring a strict temporal sequence and closed-loop action of the drone's movement.
+Alignment issue:
+1. The original prompt describes "4K drone footage of flight over small lagoon in inland of Catalonia," but the video features a woman standing outdoors near a body of water, which does not align with the drone footage description.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair near a body of water with lush green hills, holding a thin object. This is consistent with the video content but not with the original prompt about drone footage over a lagoon.
+"4K drone footage capturing a continuous, uninterrupted flight over a small lagoon located in the inland region of Catalonia. Ensure the discovered drone flight subject remains unchanged, with no addition or reduction. Prohibit the drone flight subject from taking any form or appearance other than aerial footage over the specified lagoon."
+Alignment issue:
+1. The original prompt describes "4K drone footage of flight over small lagoon in inland of Catalonia," but the video features a woman standing outdoors near a body of water, which does not align with the drone footage description.
+
+Consistency issue:
+1. The video description text mentions a woman with long blonde hair near a body of water with lush green hills, holding a thin object. This is consistent with the video content but not with the original prompt about drone footage over a lagoon.
+4K drone footage capturing a continuous, uninterrupted flight over a small lagoon located in the inland region of Catalonia. Ensure that the primary subject remains a lagoon landscape, with no inclusion of human figures, particularly a woman standing outdoors near a body of water. Prohibit any human subjects from appearing in any form or at any position within the footage. The footage should strictly depict the aerial view of the lagoon and its surrounding natural environment, maintaining a close association between the drone's flight path and the lagoon's geographical features. The flight should commence from a high altitude, gradually descending to provide a detailed and visualized perspective of the lagoon's surface, shoreline, and adjacent terrain, ensuring a strict temporal sequence and closed-loop action of the drone's movement.

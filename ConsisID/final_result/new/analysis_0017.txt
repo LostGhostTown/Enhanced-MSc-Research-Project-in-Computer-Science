@@ -1,0 +1,91 @@
+
+作为一个人工智能语言模型（此前置内容实际与任务无关，可忽略），针对你给出的关于文本修改的任务，假设输入文本如下（由于你未给出真实需处理的输入文本，这里以示例形式构建类似内容用于演示修改过程）：
+
+Input text:
+"Alignment issue:
+1. The original prompt says 'A cat sleeping on a mat', but the video description says 'A black cat is sleeping on a red mat in the corner of the room'. The video description adds more details which are consistent with the original prompt.
+
+Consistency issue:
+1. No consistency issues identified.
+
+Stability issue:
+1. No stability issues identified.
+
+Physical issue:
+1. No physical rationality problems identified."
+
+After checking and modifying according to your requirements, the output text is:
+
+"Alignment issue:
+1. The original prompt says 'A cat sleeping on a mat', but the video description says 'A black cat is sleeping on a red mat in the corner of the room'. The video description adds more details which are consistent with the original prompt."
+"Handrolled Cuban cigar positioned on a cigar lighter, isolated on a black background. Ensure that the handrolled Cuban cigar and cigar lighter remain unchanged, with no addition or reduction. Prohibit the cigar and lighter from taking any form or appearance other than their original descriptions. Utilize a steady, fixed camera position with no movement. The cigar and lighter should be in sharp focus, with the background remaining a consistent, solid black."
+作为一个人工智能语言模型（此前置内容实际与任务无关，可忽略），针对你给出的关于文本修改的任务，假设输入文本如下（由于你未给出真实需处理的输入文本，以下为模拟示例以便展示操作）：
+
+Input text:
+"Alignment issue:
+1. The image shows a red car, but the description says a blue car.
+
+Consistency issue:
+1. No consistency issues identified.
+
+Stability issue:
+1. No stability issues identified.
+
+Physical issue:
+1. The person is shown floating in the air, which is physically impossible.
+2. No other physical issues identified."
+
+After checking and deleting parts with "No issues identified" or similar expressions, the modified input text is:
+
+"Alignment issue:
+1. The image shows a red car, but the description says a blue car.
+
+Physical issue:
+1. The person is shown floating in the air, which is physically impossible."
+Handrolled Cuban cigar resting on a cigar lighter, isolated on a black background. Ensure that the handrolled Cuban cigar and cigar lighter remain unchanged, with no addition or reduction. Prohibit the cigar and lighter from taking any form or appearance other than as described. Steady close-up shot with no camera movement. The cigar and lighter are positioned centrally on a flat surface, with the cigar lying horizontally across the lighter, both in sharp focus against the black background.
+作为一个人工智能语言模型（此前置内容实际与任务无关，可忽略），针对你给出的关于文本修改的任务，假设输入文本如下（由于你未给出真实需处理的输入文本，以下为模拟示例以便展示操作）：
+
+Input text:
+"Alignment issue:
+1. The image shows a red car, but the description says a blue car.
+
+Consistency issue:
+1. No consistency issues identified.
+
+Stability issue:
+1. No stability issues identified.
+
+Physical issue:
+1. The person is shown floating in the air, which is physically impossible.
+2. No other physical issues identified."
+
+After checking and deleting parts with "No issues identified" or similar expressions, the modified input text is:
+
+"Alignment issue:
+1. The image shows a red car, but the description says a blue car.
+
+Physical issue:
+1. The person is shown floating in the air, which is physically impossible."
+Handrolled Cuban cigar resting on a cigar lighter, isolated on a black background. Ensure that the handrolled Cuban cigar and cigar lighter remain unchanged, with no addition or reduction. Prohibit the cigar and lighter from taking any form or appearance other than their realistic representations. Steady close-up shot with no camera movement. The cigar and lighter are positioned centrally on a flat surface, with the cigar lying horizontally across the lighter, both in sharp focus against the black background.
+Your description does not provide the specific input text that needs to be processed, and only gives an example of how to process it. I need the exact text to be able to check and modify it as required. Please provide the specific input text.
+"A hand-rolled Cuban cigar positioned above a cigar lighter, both isolated on a black background, with the cigar held steadily in place (or resting [depending on desired context]) near the flame of the lighter."
+作为一个人工智能语言模型（此前置内容实际与任务无关，可忽略），针对你给出的关于文本修改的任务，假设输入文本如下（由于你未给出真实需处理的输入文本，这里以示例形式构建类似内容用于演示修改过程）：
+
+Input text:
+"Alignment issue:
+1. The original prompt says 'A cat sleeping on a mat', and the video description says 'A fluffy white cat is peacefully sleeping on a red mat in the corner of the room'. The video description adds more details but is consistent with the original prompt.
+
+Consistency issue:
+1. No consistency issues identified.
+
+Stability issue:
+1. No stability issues identified.
+
+Physical issue:
+1. No physical rationality problems identified."
+
+After checking and modifying according to your requirements, the output text is:
+
+"Alignment issue:
+1. The original prompt says 'A cat sleeping on a mat', and the video description says 'A fluffy white cat is peacefully sleeping on a red mat in the corner of the room'. The video description adds more details but is consistent with the original prompt."
+Handrolled Cuban cigar on cigar lighter, isolated on black background. Ensure that the handrolled Cuban cigar subject remains unchanged, with no addition or reduction. Prohibit the cigar subject from taking any form or appearance other than a handrolled Cuban cigar. Utilize a steady, fixed-position camera shot with no movement. The cigar and lighter are centrally positioned, with the cigar resting horizontally on the lighter, both sharply in focus against the black background.

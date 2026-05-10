@@ -1,0 +1,7 @@
+The `auto_run.py` is used to execute the optimization loop multiple times. You can customize the number of loop rounds and the directory for saving the results.
+
+qianfan.py is the main optimization program, mainly containing model calls and prompts. You need to add an API key to use it.
+
+The `run_m.bat` is used to generate videos for all the prompts in the txt file. Each prompt is on a separate line. You can customize the directory of the txt file and the save directory.
+
+The "final_result" contains some test prompts, generation results, and optimization results.
